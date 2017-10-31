@@ -2,7 +2,7 @@
 <html lang="en">
 
     <head>
-        <title>Hello Cloud Gurus</title>
+        <title>Minasys</title>
     </head>
 
     <body>
